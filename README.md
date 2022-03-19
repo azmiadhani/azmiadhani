@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azmiadhani
 - 👀 I’m interested in Software Engineering, Web & Mobile Development
 - 🌱 I’m an ex Software Engineer at PTIK ULM (Pengembangan Teknologi Informasi & Komunikasi Universitas Lambung Mangkurat)
-- 📫 You can reach me at azmi.adhani@ulm.ac.id
+- 📫 You can reach me at azmiadhani@gmail.com or azmi.adhani@ulm.ac.id
 
 <!---
 azmiadhani/azmiadhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
