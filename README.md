@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Azmi Adhani
 - 👀 I’m interested in Software Engineering, Web & Mobile Development
-- 🌱 I’m an ex Software Engineer at UPT PTIK ULM (Unit Pelayanan Teknis Pengembangan Teknologi Informasi & Komunikasi Universitas Lambung Mangkurat)
+- 🌱 I’m a Junior Engineer at Shopee and Digitalent at Sea Labs
 - 📫 You can reach me at azmiadhani@gmail.com or azmi.adhani@ulm.ac.id
 
 <!---
