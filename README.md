@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Muhammad Azmi Adhani
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m a Junior Engineer at Shopee and Digitalent at Sea Labs
+- 🌱 I’m a Software Engineer at Shopee and Digitalent at Sea Labs
 - 📫 You can reach me at azmiadhani@gmail.com or azmi.adhani@shopee.com
 
 <!---
