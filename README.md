@@ -1,4 +1,4 @@
-- 🌱 I’m a Software Engineer at Shopee and Digitalent at Sea Labs
+- 🌱 I’m a Software Engineer at Shopee
 - 📫 You can reach me at azmiadhani@gmail.com or azmi.adhani@shopee.com
 
 <!---
